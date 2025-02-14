@@ -1,1 +1,1 @@
-Change 1
+Welcome to the site!
