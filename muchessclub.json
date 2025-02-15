@@ -1,6 +1,8 @@
 {
  	"info" :
  	[
-   		{"id" :  "SE23UCSE038", "name" : "Dilip", "chesscom" : "Protector-420", "lichessorg" : "Protector-420"}
+   		{"id" :  "se23ucse038", "name" : "Dilip", "chesscom" : "Protector-420", "lichessorg" : "Protector-420"},
+		{"id" :  "se23umcs003", "name" : "Ankit", "chesscom" : "ankitparupalli", "lichessorg" : "ankitparupalli"},
+		{"id" :  "se24ucse096", "name" : "Karthik", "chesscom" : "bootstrapp_1", "lichessorg" : "bootstrapp_1"}
 	]
 }
